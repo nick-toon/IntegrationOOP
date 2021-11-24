@@ -9,7 +9,6 @@ Integrating OOP skills from Programming II by following the [QT C++ GUI Tutorial
 ## Part One
 ![screenshot](Screenshots/Screenshot_1.png)
 ![screenshot](Screenshots/Screenshot_2.png)
-![screenshot](Screenshots/Screenshot_3.png)
 
 ## Part Two
 ![screenshot](Screenshots/Screenshot_4.png)

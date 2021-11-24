@@ -1,0 +1,10 @@
+There are three types of visibility modes known as access specifiers in OOP:
+
+1. Public
+2. Protected
+3. Private
+
+The public access specifier is visible to everything, which means that any class can use those variables.
+The protected access specifier is visible onle to the derived class, which means only dervied classdes can access these variables.
+The private access specificer is not visible to any other class, meaning that even the derived class cannot use these variables.
+

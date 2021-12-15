@@ -95,6 +95,6 @@ void MainWindow::on_actionAbout_NotepadZ_triggered(){
     about_text += "Date   : 11/24/2021\n";
     about_text += "Icons  : https://www.flaticon.com/\n";
     about_text += "(C) NotepadZ (R)\n";
-    QMessageBox::about(this,"About NotepadZ",about_text); //uses the "about" subclass from QmessageBox
+    QMessageBox::about(this,"About NotepadZ",about_text); //LO2. Uses the "about" subclass from QmessageBox
 }
 

@@ -1,7 +1,7 @@
 /* 
 This program utilizes overloaded constructors and a initialized list.
 Instead of implementing it directly into my QT notepad progam, im going to
-make it a text file that can be opened up in the notepad.
+make it so it can be opened up in the notepad.
 */
 
 #include<iostream>

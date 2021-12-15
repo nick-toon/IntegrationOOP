@@ -4,7 +4,7 @@
 #include <QWidget>
 
 namespace Ui {
-class Form;
+class Form; // LO1: Design and implement a class
 }
 
 class Form : public QWidget

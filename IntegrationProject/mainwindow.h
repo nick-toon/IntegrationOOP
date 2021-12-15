@@ -4,7 +4,7 @@
 #include <QMainWindow>
 
 QT_BEGIN_NAMESPACE
-namespace Ui { class MainWindow; }
+namespace Ui { class MainWindow; } // LO1a. At least one class in a header file with non-trivial methods implemented in a cpp file
 QT_END_NAMESPACE
 
 class MainWindow : public QMainWindow

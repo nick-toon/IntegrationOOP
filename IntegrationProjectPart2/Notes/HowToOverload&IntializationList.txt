@@ -30,7 +30,7 @@ public:
 };
 
 int main() {
-    //Overloading constructors
+    //LO1b. Overloading constructors
     Coordinates p1(2, 4);
     Coordinates p2(5, 10); 
     Coordinates p3(6, 12); 

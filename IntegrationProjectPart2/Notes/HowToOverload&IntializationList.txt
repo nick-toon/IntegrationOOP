@@ -12,7 +12,7 @@ private:
     int x;
     int y;
 public:
-    Coordinates(int i = 0, int j = 0) { //Initialization list
+    Coordinates(int i = 0, int j = 0) { //LO1c. Utilize an initialization list
         x = i;
         y = j;
     }

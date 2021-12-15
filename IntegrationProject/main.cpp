@@ -1,5 +1,5 @@
 /* Nicholas Cotugno
- * Compare/Contrast of procededural/functional programing vs OOP
+ * LO1: Compare/Contrast of procededural/functional programing vs OOP
  * In procedural/functional programming, programs are divided
  * into functions while OOP is divided into objects.
  * Procedural/functional is top down and OOP is bottom up

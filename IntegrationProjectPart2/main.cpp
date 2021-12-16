@@ -1,3 +1,13 @@
+/** @file main.cpp
+ *  @brief main file of notepadZ program
+ *
+ *  The main file of my Qt notepad program simply opens the
+ *  mainwindow including the notepad application. It also sets the
+ *  title of the window to 'NotePadZ' shown on line 19.
+ *
+ *  @author Nicholas Cotugno
+ *  @bug No known bugs.
+ */
 #include "mainwindow.h"
 
 #include <QApplication>

@@ -36,6 +36,16 @@ private slots:
 
     void on_actionAbout_NotepadZ_triggered();
 
+    void on_actionFont_triggered();
+
+    void on_actionColor_triggered();
+
+    void on_actionBackground_Color_triggered();
+
+    void on_actionBackgroundColor_triggered();
+
+    void on_actionPrint_triggered();
+
 private: //private access modifier
     Ui::MainWindow *ui;
     QString file_path_; //Used to save file

@@ -1,4 +1,4 @@
-QT       += core gui
+QT       += core gui printsupport #printsupport allows use of 'print' function
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 

@@ -1,7 +1,7 @@
 /** @file DynamicDispatch.cpp
  *  @brief File shows example of dynamic dispatch
  *
- *  Dynamic dispatch in this program is used to correctly pick the
+ *  LO3 Dynamic dispatch in this program is used to correctly pick the
  *  appropriate function when iterating through the getinfo() function
  *
  *  L05. Relationship between OO inheritance and subtyping:

@@ -1,3 +1,10 @@
+/** @file mainwindow.h
+ *  @brief header file for mainwindow
+ *
+ *  @author Nicholas Cotugno
+ *  @bug No known bugs.
+ */
+
 #ifndef MAINWINDOW_H
 #define MAINWINDOW_H
 
